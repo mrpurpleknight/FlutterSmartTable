@@ -11,7 +11,6 @@ import 'src/data/communication/response_data.dart';
 import 'src/data/smart_table_data_source_processor.dart';
 import 'src/data/sources/data_source.dart';
 import 'src/fetch/strategy/fetch_strategy.dart';
-import 'src/smart_table_theme.dart';
 import 'src/table_structure/header.dart';
 import 'src/table_structure/headers.dart';
 import 'src/table_structure/rows.dart';
